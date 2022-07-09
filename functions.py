@@ -5,9 +5,8 @@ from random import *
 from variables import *
 pygame.init()
 pygame.mixer.init()
-cointake = pygame.mixer.Sound('/home/dell/python_files/Games/Unknown/Sounds/CoinPickSound.wav')
-deathsound = pygame.mixer.Sound('/home/dell/python_files/Games/Unknown/Sounds/DeathSound.wav')
-
+cointake = pygame.mixer.Sound(path+'Sounds/CoinPickSound.wav')
+deathsound = pygame.mixer.Sound(path+'Sounds/DeathSound.wav')
 font = pygame.font.SysFont(None,font_size)
 
 def welcome_window(): # This function is for welcome window which player incounters first of all 
