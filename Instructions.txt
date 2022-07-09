@@ -1,0 +1,6 @@
+for short jump press --> 'q'
+for long jump press --> 'j'
+for launching the jetpack --> 'l' ( It will cost 50 coins )
+for using hoverboard --> 's' ( It will cost 50 coins )
+when welcome window appears an you want to play then press --> 'Enter'
+To restart when game is over, press --> 'Enter'
